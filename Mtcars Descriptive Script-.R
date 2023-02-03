@@ -1,7 +1,5 @@
 
-?mtcars
-
-#Identifying the structure of mtcars
+?mtcars #Identifying the structure of mtcars
 
 str(mtcars)
 
